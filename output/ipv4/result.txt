@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-09 17:26:03,http://php.cqshushu.ggff.net/jzb.php?id=cctv3&公众号【医工学习日志】
+2025-10-09 18:28:23,http://php.cqshushu.ggff.net/jzb.php?id=cctv3&公众号【医工学习日志】
 
 📺央视频道,#genre#
 CCTV-3,http://php.cqshushu.ggff.net/jzb.php?id=cctv3&公众号【医工学习日志】
@@ -11,22 +11,22 @@ CCTV-10,http://php.cqshushu.ggff.net/jzb.php?id=cctv10&公众号【医工学习�
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 ☘️上海频道,#genre#
-新闻综合,https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
-新闻综合,https://tvfile.scjgtv.cn:443/nmip-media/channellive/channel104126/playlist.m3u8&quot;
+新闻综合,https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
+新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+新闻综合,https://tvfile.scjgtv.cn:443/nmip-media/channellive/channel104126/playlist.m3u8"
 欢笑剧场,http://223.167.245.215:8001/rtp/239.45.3.196:5140
 
 ☘️江苏频道,#genre#
 
 🌊港·澳·台,#genre#
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 凤凰中文,http://zqh2333.top:2222/rtp/239.93.24.9:2192
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-凤凰资讯,http://zqh2333.top:2222/rtp/239.93.24.4:2191
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+凤凰资讯,http://zqh2333.top:2222/rtp/239.93.24.4:2191
 
 🏀体育频道,#genre#
 
